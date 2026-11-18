@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "979818959791",
+    "restype": "watchface",
+    "name": "镜音铃重力感应",
+    "description": "基于加速度传感器的重力感应表盘",
+    "preview": [
+      "media/video-to-gif-1795019801303.webp",
+      "media/preview_02.jpg",
+      "media/preview_03.jpg",
+      "media/Frame 4_压缩_3.png"
+    ],
+    "icon": "media/1ComfyUI_10841.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "jawnd",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource_979818959791.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource_979818959791.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
